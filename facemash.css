@@ -1,0 +1,80 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.FACEMASH{
+    background-color: rgb(153, 8, 8);
+    color: white;
+    padding-left:550px ;
+    padding-right:;
+    padding-top:10px;
+    padding-bottom: 10px ;
+    vertical-align: text top;
+    font-size: 50px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:10px;
+    margin-bottom: 30px;
+}
+.inner{
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-left: 430px;
+    margin-top: 5px;
+}
+
+.HOTTER{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: bolder;
+    padding-left: 490px;
+    font-size: 30px;
+}
+
+.d{
+
+    height: 200px;
+    padding-left:   515px ;
+    padding-right: 10px;
+    cursor: pointer;
+}
+.s{
+    height: 200px;
+    padding-left:   10px ;
+    cursor: pointer;
+}
+.r{
+    margin-bottom: 50px;
+    
+    font-weight: bolder;
+}
+.i{
+    padding-top: 5px;
+    padding-left:2px ;
+    padding-bottom: 5px;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.c{
+    margin-left: 550px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.CLICK{
+    margin-left: 550px;
+    margin-bottom: 5px;
+}
+.ARROW{
+    margin-top: 5px;
+    margin-left: 700px;
+    font-size: 40px;
+    margin-bottom:5px ;
+}
+.thug{
+    margin-top: 5px;
+    height: 80px;
+    margin-left: 670px;
+    cursor: pointer;
+}
+.thug:hover{
+    height: 90px;
+    box-shadow: black;
+}
